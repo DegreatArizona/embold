@@ -1,0 +1,818 @@
+@media only screen and (max-width: 767px) {
+  /*================================================
+    Default Area CSS
+    =================================================*/
+  .ptb-100 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-100 {
+    padding-top: 50px;
+  }
+  .pb-100 {
+    padding-bottom: 50px;
+  }
+  .ptb-70 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .pt-70 {
+    padding-top: 20px;
+  }
+  .pb-70 {
+    padding-bottom: 20px;
+  }
+  .pt-30 {
+    margin-top: 30px !important;
+  }
+  .pl-20 {
+    padding-left: 0px;
+  }
+  .pr-20 {
+    padding-right: 0px;
+  }
+  .plr-100 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  :root {
+    --card-title-fontSize: 19px;
+    --titleFontSize: 24px;
+    --fontSize: 14px;
+  }
+  .default-section-title {
+    margin-bottom: 0px;
+  }
+  .default-section-title h3 {
+    font-size: 24px;
+  }
+  .section-content {
+    margin-top: 0px;
+  }
+  .shape {
+    display: none;
+  }
+  .default-button {
+    padding: 10px 15px;
+  }
+  .default-section-title h3 {
+    font-size: 22px;
+  }
+  /*================================================
+    Index 01 Banner Area CSS
+    =================================================*/
+  .main-banner .plr-100 {
+    padding-right: 15px;
+  }
+  .banner-text-area {
+    max-width: 520px;
+    padding-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .banner-text-area h1 {
+    font-size: 32px;
+  }
+  .main-banner-img {
+    padding-top: 30px;
+  }
+  /*================================================
+    Index 01 Features Area CSS
+    =================================================*/
+  .feature-card {
+    padding: 25px;
+  }
+  .feature-card .feature-card-icon {
+    margin-bottom: 20px;
+    position: relative;
+    left: 0;
+  }
+  /*================================================
+    Index 01 About Area CSS
+    =================================================*/
+  .about-text-area {
+    margin-top: 30px;
+    padding-left: 0px;
+    max-width: 800px;
+  }
+  /*================================================
+    Index 01 Causes Area CSS
+    =================================================*/
+  .causes-card .causes-card-text-area {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .causes-card .causes-card-text-area .causes-card-donate ul li .default-button {
+    padding: 8px 20px;
+  }
+  /*================================================
+    Index 01 Event Area CSS
+    =================================================*/
+  .event-card .event-text-area {
+    padding: 15px;
+  }
+  /*================================================
+    Index 01 Donation Area CSS
+    =================================================*/
+  .make-donation-text-area {
+    max-width: 800px;
+    margin-top: 30px;
+    padding-left: 0px;
+  }
+  /*================================================
+    Index 01 Gallery Area CSS
+    =================================================*/
+  .gallery-card::before {
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+  }
+  .gallery-card .gallery-card-text-area {
+    opacity: 1;
+    padding: 15px;
+  }
+  /*================================================
+    Index 01 Company Area CSS
+    =================================================*/
+  .company-state-img-area {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .company-state-text-area {
+    max-width: 800px;
+    padding-left: 0px;
+  }
+  /*================================================
+    Index 01 Testimonials Area CSS
+    =================================================*/
+  .testimonial-card p {
+    font-size: 15px;
+  }
+  .testimonial-card i {
+    right: 10px;
+    top: 50px;
+  }
+  /*================================================
+    Index 01 Blog Area CSS
+    =================================================*/
+  .blog-card .blog-text-area {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  /*================================================
+    Footer Area CSS
+    =================================================*/
+  .footer-social-area span {
+    margin-right: 10px;
+  }
+  .footer-social-area ul li a {
+    margin: 0px 1px;
+    width: 25px;
+    height: 25px;
+  }
+  .footer-lp {
+    padding-left: 0px;
+  }
+  .footer-links {
+    margin-top: 30px;
+  }
+  /*================================================
+    Index 02 Topbar Area CSS
+    =================================================*/
+  .topbar {
+    padding: 10px 0px;
+  }
+  .topbar-left-area {
+    text-align: center;
+  }
+  .topbar-left-area ul li {
+    padding: 5px 0px;
+  }
+  .topbar-right-area ul {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .popup-button {
+    width: 35px;
+  }
+  /*================================================
+    Index 02 Features Area CSS
+    =================================================*/
+  .feature-card-2 {
+    padding: 15px;
+  }
+  .feature-card-2 .feature-card-icon {
+    margin-bottom: 15px;
+    position: relative;
+    left: 0;
+  }
+  /*================================================
+    Index 02 Home banner Area CSS
+    =================================================*/
+  .home-banner-img {
+    padding-top: 0px;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  /*================================================
+    Index 02 about Area CSS
+    =================================================*/
+  .about-img-2 {
+    background-image: unset;
+    height: auto;
+  }
+  .about-img-2 img {
+    display: block;
+  }
+  .about-img-2 .about-img-text {
+    right: unset;
+    left: 0;
+    top: unset;
+    bottom: 15px;
+    max-width: 160px;
+  }
+  .about-img-2 .about-img-text h4 {
+    padding: 15px;
+  }
+  .about-text-area-2 {
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  /*================================================
+    Index 02 newsletter Area CSS
+    =================================================*/
+  .newsletter-text-area {
+    text-align: center;
+    display: block;
+  }
+  .newsletter-text-area .default-section-title {
+    margin-top: 20px;
+  }
+  .newsletter-text-area .default-section-title h3 {
+    font-size: 24px;
+  }
+  .newsletter-button {
+    text-align: center;
+    margin-top: 20px;
+  }
+  /*================================================
+    Index 02 Fun Facts Area CSS
+    =================================================*/
+  .fun-fact-card-2 {
+    padding: 0;
+    text-align: center;
+  }
+  .fun-fact-card-2 i {
+    position: relative;
+    left: 0;
+    margin-bottom: 12px;
+  }
+  .fun-fact-card-2 h2 {
+    font-size: 24px;
+  }
+  /*================================================
+    Index 02 Event Area CSS
+    =================================================*/
+  .event-card-2 .default-button {
+    float: unset;
+    margin-top: 15px;
+  }
+  /*================================================
+    Index 03 Banner Area CSS
+    =================================================*/
+  .banner-img-3 {
+    padding-top: 30px;
+  }
+  /*================================================
+    Index 03 Features Area CSS
+    =================================================*/
+  .feature-card-3 {
+    padding: 15px;
+  }
+  .feature-card-3 .feature-card-icon {
+    position: relative;
+    left: 0;
+    margin-bottom: 20px;
+  }
+  /*================================================
+    Index 03 About Area CSS
+    =================================================*/
+  .about-img-3 {
+    background-image: unset;
+    height: auto;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .about-img-3 img {
+    display: inline-block;
+  }
+  .about-img-3 .about-fun-facts-area-3 {
+    padding: 15px;
+  }
+  .about-img-3 .about-fun-facts-area-3 .fun-facts-card-3 {
+    border: 0px;
+  }
+  .about-img-3 .about-fun-facts-area-3 .fun-facts-card-3 h2 {
+    font-size: 24px;
+  }
+  .partner-slider-area img {
+    opacity: 1;
+  }
+  /*================================================
+    Index 03 Donation Area CSS
+    =================================================*/
+  .donation-img-area {
+    text-align: center;
+  }
+  /*================================================
+    Uni Banner Area CSS
+    =================================================*/
+  .uni-banner-text-area {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .uni-banner-text-area h1 {
+    font-size: 32px;
+    margin-bottom: 5px;
+  }
+  .donation-card-1 {
+    padding: 20px 15px;
+  }
+  .donation-card-1 h3 {
+    font-size: 22px;
+  }
+  .donation-form-text-area .donate-price ul li {
+    font-size: 14px;
+    padding: 5px 10px;
+    margin: 5px 2px 0px;
+  }
+  .donation-payment .form-check-inline {
+    margin-right: 10px;
+  }
+  .donation-payment .form-check-label {
+    font-size: 13px;
+  }
+  .sidebar-card {
+    padding: 20px 15px;
+  }
+  .popular-cases-sidebar-card img {
+    margin-right: 10px;
+  }
+  .popular-cases-sidebar-card h5 {
+    font-size: 15px;
+  }
+  .popular-cases-sidebar-card p a {
+    font-size: 13px;
+  }
+  /*================================================
+    LogIn  Area CSS
+    =================================================*/
+  .log-in-card {
+    padding: 15px;
+  }
+  /*================================================
+    Error Area CSS
+    =================================================*/
+  .error-content h4 {
+    font-size: 18px;
+  }
+  .details-page-text-area h3 {
+    font-size: 20px;
+  }
+  .causes-details-text-area .causes-details-progress-bar .default-button {
+    margin-top: 15px;
+  }
+  .causes-details-text-area .cd-donate-now ul li {
+    margin: 0px;
+    padding: 6px 20px;
+  }
+  .google-map {
+    height: 150px;
+  }
+  .blog-details-text-area .blog-qoute {
+    padding: 15px;
+  }
+  .blog-details-text-area .blog-qoute i {
+    opacity: .2;
+    z-index: 0;
+  }
+  .blog-details-text-area .blog-qoute p {
+    max-width: 100%;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .bd-form {
+    padding: 15px;
+  }
+  .contact-form-text-area {
+    padding: 15px;
+  }
+  .contact-card-area h3, .contact-page-form-area h3 {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /*================================================
+    Footer Area CSS
+    =================================================*/
+  .footer-services {
+    margin-top: 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /*================================================
+    Default Area CSS
+    =================================================*/
+  .ptb-100 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .pt-100 {
+    padding-top: 80px;
+  }
+  .pb-100 {
+    padding-bottom: 80px;
+  }
+  .ptb-70 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .pt-70 {
+    padding-top: 50px;
+  }
+  .pb-70 {
+    padding-bottom: 50px;
+  }
+  .pt-30 {
+    margin-top: 30px;
+  }
+  .pl-20 {
+    padding-left: 0px;
+  }
+  .pr-20 {
+    padding-right: 0px;
+  }
+  :root {
+    --card-title-fontSize: 20px;
+    --fontSize: 15px;
+  }
+  .default-section-title h3 {
+    font-size: 32px;
+  }
+  .section-content {
+    margin-top: 0px;
+  }
+  /*================================================
+    Default Area CSS
+    =================================================*/
+  :root {
+    --card-title-fontSize: 20px;
+    --fontSize: 14px;
+  }
+  .default-section-title h3 {
+    font-size: 28px;
+  }
+  /*================================================
+    Index 01 Banner Area CSS
+    =================================================*/
+  .banner-text-area {
+    max-width: 630px;
+    padding-top: 80px;
+  }
+  .main-banner-img {
+    padding-top: 30px;
+  }
+  /*================================================
+    Index 01 Features Area CSS
+    =================================================*/
+  .feature-card {
+    padding: 25px;
+  }
+  .feature-card .feature-card-icon {
+    margin-bottom: 20px;
+    position: relative;
+    left: 0;
+  }
+  /*================================================
+    Index 01 About Area CSS
+    =================================================*/
+  .about-text-area {
+    margin-top: 30px;
+    padding-left: 0px;
+    max-width: 800px;
+  }
+  /*================================================
+    Index 01 Causes Area CSS
+    =================================================*/
+  .causes-card .causes-card-text-area .causes-card-donate ul li .default-button {
+    padding: 8px 20px;
+  }
+  /*================================================
+    Index 01 Donation Area CSS
+    =================================================*/
+  .make-donation-text-area {
+    max-width: 800px;
+    margin-top: 30px;
+    padding-left: 0px;
+  }
+  /*================================================
+    Index 01 Company State Area CSS
+    =================================================*/
+  .company-state-img-area {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .company-state-text-area {
+    max-width: 800px;
+    padding-left: 0px;
+  }
+  /*================================================
+    Index 01 Testimonials Area CSS
+    =================================================*/
+  .testimonial-card p {
+    font-size: 15px;
+  }
+  /*================================================
+    Index 01 Footer Area CSS
+    =================================================*/
+  .footer-social-area span {
+    margin-right: 10px;
+  }
+  .footer-social-area ul li a {
+    margin: 0px 1px;
+    width: 25px;
+    height: 25px;
+  }
+  .footer-lp {
+    padding-left: 0px;
+  }
+  .footer-links {
+    margin-top: 30px;
+  }
+  .footer-services {
+    margin-top: 0px;
+  }
+  /*================================================
+    Index 02 Home Banner Area CSS
+    =================================================*/
+  .home-banner-img {
+    padding-top: 0px;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  /*================================================
+    Index 02 About Area CSS
+    =================================================*/
+  .about-img-2 {
+    background-image: unset;
+    height: auto;
+  }
+  .about-img-2 img {
+    display: block;
+  }
+  .about-img-2 .about-img-text {
+    right: 0;
+    top: 15px;
+  }
+  .about-text-area-2 {
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  /*================================================
+    Index 02 Newsletter Area CSS
+    =================================================*/
+  .newsletter-text-area .default-section-title h3 {
+    font-size: 24px;
+  }
+  .newsletter-button {
+    text-align: center;
+    margin-top: 20px;
+  }
+  /*================================================
+    Index 02 Fun Facts Area CSS
+    =================================================*/
+  .fun-fact-card-2 h2 {
+    font-size: 32px;
+  }
+  /*================================================
+    Index 02 Events Area CSS
+    =================================================*/
+  .event-card-2 .default-button {
+    float: unset;
+    margin-top: 15px;
+  }
+  /*================================================
+    Index 03 About Area CSS
+    =================================================*/
+  .about-img-3 {
+    background-image: unset;
+    height: auto;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .about-img-3 img {
+    display: inline-block;
+  }
+  /*================================================
+    Index 03 Donation Area CSS
+    =================================================*/
+  .donation-img-area {
+    text-align: center;
+  }
+  /*================================================
+    Uni Banner Area CSS
+    =================================================*/
+  .uni-banner-text-area {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .plr-100 {
+    max-width: 960px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  /*================================================
+    Index 01 Banner Area CSS
+    =================================================*/
+  .banner-text-area {
+    max-width: 650px;
+    padding-top: 80px;
+  }
+  .main-banner-img {
+    padding-top: 30px;
+  }
+  /*================================================
+    Index 01 About Area CSS
+    =================================================*/
+  .about-text-area {
+    margin-top: 30px;
+    padding-left: 0px;
+    max-width: 800px;
+  }
+  /*================================================
+    Index 01 Donation Area CSS
+    =================================================*/
+  .make-donation-text-area {
+    max-width: 800px;
+    margin-top: 30px;
+    padding-left: 0px;
+  }
+  /*================================================
+    Index 01 Company Area CSS
+    =================================================*/
+  .company-state-img-area {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .company-state-text-area {
+    max-width: 800px;
+    padding-left: 0px;
+  }
+  /*================================================
+    Index 01 Footer Area CSS
+    =================================================*/
+  .footer-social-area span {
+    margin-right: 10px;
+  }
+  .footer-social-area ul li a {
+    margin: 0px 1px;
+    width: 25px;
+    height: 25px;
+  }
+  .footer-lp {
+    padding-left: 20px;
+  }
+  /*================================================
+    Index 02 Home Banner Area CSS
+    =================================================*/
+  .home-banner-img {
+    padding-top: 0px;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  /*================================================
+    Index 02 About Area CSS
+    =================================================*/
+  .about-img-2 {
+    background-image: unset;
+    height: auto;
+  }
+  .about-img-2 img {
+    display: block;
+  }
+  .about-img-2 .about-img-text {
+    right: 0;
+    top: 15px;
+  }
+  /*================================================
+    Index 02 Newsletter Area CSS
+    =================================================*/
+  .newsletter-text-area .default-section-title h3 {
+    font-size: 24px;
+  }
+  /*================================================
+    Index 02 Fun Facts Area CSS
+    =================================================*/
+  .fun-fact-card-2 h2 {
+    font-size: 32px;
+  }
+  /*================================================
+    Index 02 Event Area CSS
+    =================================================*/
+  .event-card-2 .default-button {
+    float: unset;
+    margin-top: 15px;
+  }
+  /*================================================
+    Index 03 About Area CSS
+    =================================================*/
+  .about-img-3 {
+    background-image: unset;
+    height: auto;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .about-img-3 img {
+    display: inline-block;
+  }
+  /*================================================
+    Index 03 Donation Area CSS
+    =================================================*/
+  .donation-img-area {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .sidebar-card {
+    padding: 20px 15px;
+  }
+  .popular-cases-sidebar-card img {
+    margin-right: 10px;
+  }
+  .popular-cases-sidebar-card h5 {
+    font-size: 14px;
+  }
+  .popular-cases-sidebar-card p a {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  :root {
+    --card-title-fontSize: 22px;
+  }
+  .footer-lp {
+    padding-left: 50px;
+  }
+  .default-section-title h3 {
+    font-size: 36px;
+  }
+  /*================================================
+    Index 01 Banner Area CSS
+    =================================================*/
+  .banner-text-area h1 {
+    font-size: 48px;
+  }
+  /*================================================
+    Index 01 Causes Area CSS
+    =================================================*/
+  .causes-card .causes-card-text-area {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  /*================================================
+    Index 01 Blog Area CSS
+    =================================================*/
+  .blog-card .blog-text-area {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  /*================================================
+    Index 02 Newsletter Area CSS
+    =================================================*/
+  .newsletter-text-area .default-section-title h3 {
+    font-size: 32px;
+  }
+  .popular-cases-sidebar-card h5 {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 1550px) {
+  /*================================================
+    Index 01 Banner Area CSS
+    =================================================*/
+  .banner-text-area h1 {
+    font-size: 58px;
+  }
+  .plr-100 {
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
